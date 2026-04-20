@@ -1,8 +1,8 @@
-# 🌊 Robeson County Groundwater Monitoring Program (RCGMP)
+# Robeson County Groundwater Monitoring Program (RCGMP)
 
 **Researcher:** Shraya Rajkarnikar | UNC Pembroke — IT / Data Analytics  
 **Advisors:** Dr. Maharjan & Dr. Phillippi | UNC Pembroke  
-**Timeline:** March 2025 – Present  
+**Timeline:** March 2025 – April 2026
 **Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · SciPy · Geopy · ArcGIS Pro · Excel  
 **Presented:** PURC Symposium 2026 — 50+ faculty and community stakeholders
 
